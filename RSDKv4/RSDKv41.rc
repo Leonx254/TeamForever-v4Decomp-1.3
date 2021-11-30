@@ -52,7 +52,7 @@ END
 
 // Icon with lowest ID value placed first to ensure application icon
 // remains consistent on all systems.
-IDI_ICON1               ICON                    "D:\\Sonic Modding\\Sonic-1-2-2013-Decompilation\\SF Icon.ico"
+IDI_ICON1               ICON                    "SF Icon.ico"
 
 #endif    // English (United Kingdom) resources
 /////////////////////////////////////////////////////////////////////////////
