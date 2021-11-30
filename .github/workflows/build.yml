@@ -2,7 +2,7 @@ name: Build RSDKv4
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   v4-windows:
